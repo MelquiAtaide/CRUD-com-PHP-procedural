@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+}
+
+.divTabela {
+    border: solid;
+    width: 80%;
+    text-align: center;
+    margin-left: 8rem;
+    margin-top: 7rem;
+    border-radius: 25px;
+}
+.btnListaCliente {
+    margin-bottom: 2rem;
+}
+
+.divForm {
+    border: solid;
+    width: 50%;
+    text-align: center;
+    margin-left: 23rem;
+    margin-top: 7rem;
+    border-radius: 25px;
+    padding: 30px;
+}
+
+.buttonsForm {
+    margin: 1rem;
+}
